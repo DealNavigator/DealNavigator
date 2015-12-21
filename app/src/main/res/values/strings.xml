@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tabbed</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="search_hint">Click!</string>
+    <string name = "tab1name">Карта</string>
+    <string name = "tab2name">Каталог</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
